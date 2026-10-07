@@ -1,0 +1,205 @@
+2026-10-06 18:40:35,084 | INFO    | main | Run started with settings: {'no_details': False, 'max_pages': None, 'delay': 0.5}
+2026-10-06 18:40:35,084 | INFO    | main | === Starting source: Books to Scrape ===
+2026-10-06 18:40:35,084 | INFO    | scrapers.base_scraper | Page 1: https://books.toscrape.com/
+2026-10-06 18:40:38,405 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/
+2026-10-06 18:40:39,442 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-10-06 18:40:40,569 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-10-06 18:40:41,573 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-10-06 18:40:42,500 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-10-06 18:40:43,530 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-10-06 18:40:45,892 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-10-06 18:40:48,569 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-10-06 18:40:50,027 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-10-06 18:40:53,147 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-10-06 18:40:54,602 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-10-06 18:40:56,544 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
+2026-10-06 18:40:58,271 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
+2026-10-06 18:40:59,308 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/set-me-free_988/index.html
+2026-10-06 18:41:01,372 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
+2026-10-06 18:41:02,881 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+2026-10-06 18:41:06,061 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+2026-10-06 18:41:07,683 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/olio_984/index.html
+2026-10-06 18:41:09,229 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+2026-10-06 18:41:10,663 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html
+2026-10-06 18:41:12,301 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
+2026-10-06 18:41:12,819 | INFO    | scrapers.base_scraper | Page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 18:41:14,569 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 18:41:15,680 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/in-her-wake_980/index.html
+2026-10-06 18:41:17,823 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/how-music-works_979/index.html
+2026-10-06 18:41:18,850 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html
+2026-10-06 18:41:20,094 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html
+2026-10-06 18:41:21,228 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/black-dust_976/index.html
+2026-10-06 18:41:22,442 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html
+2026-10-06 18:41:24,387 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
+2026-10-06 18:41:26,056 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html
+2026-10-06 18:41:27,558 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
+2026-10-06 18:41:29,197 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/wall-and-piece_971/index.html
+2026-10-06 18:41:30,936 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html
+2026-10-06 18:41:32,584 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html
+2026-10-06 18:41:34,034 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html
+2026-10-06 18:41:35,034 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html
+2026-10-06 18:41:36,041 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/sophies-world_966/index.html
+2026-10-06 18:41:37,167 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/penny-maybe_965/index.html
+2026-10-06 18:41:38,437 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html
+2026-10-06 18:41:39,638 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html
+2026-10-06 18:41:40,569 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html
+2026-10-06 18:41:41,591 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html
+2026-10-06 18:41:42,096 | INFO    | scrapers.base_scraper | Page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 18:41:43,222 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 18:41:44,458 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html
+2026-10-06 18:41:45,391 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html
+2026-10-06 18:41:46,416 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/private-paris-private-10_958/index.html
+2026-10-06 18:41:47,633 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html
+2026-10-06 18:41:48,867 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/without-borders-wanderlove-1_956/index.html
+2026-10-06 18:41:49,808 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/when-we-collided_955/index.html
+2026-10-06 18:41:50,718 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html
+2026-10-06 18:41:52,437 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html
+2026-10-06 18:41:53,370 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html
+2026-10-06 18:41:54,402 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html
+2026-10-06 18:41:55,623 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html
+2026-10-06 18:41:56,541 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html
+2026-10-06 18:41:58,484 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html
+2026-10-06 18:41:59,919 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/this-one-summer_947/index.html
+2026-10-06 18:42:00,842 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/thirst_946/index.html
+2026-10-06 18:42:02,074 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-torch-is-passed-a-harding-family-story_945/index.html
+2026-10-06 18:42:03,504 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html
+2026-10-06 18:42:04,483 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html
+2026-10-06 18:42:05,459 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html
+2026-10-06 18:42:06,882 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html
+2026-10-06 18:42:07,401 | INFO    | scrapers.base_scraper | Page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 18:42:08,420 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 18:42:09,782 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-nameless-city-the-nameless-city-1_940/index.html
+2026-10-06 18:42:10,996 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html
+2026-10-06 18:42:12,916 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html
+2026-10-06 18:42:14,462 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html
+2026-10-06 18:42:15,399 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html
+2026-10-06 18:42:16,409 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html
+2026-10-06 18:42:17,331 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html
+2026-10-06 18:42:18,486 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html
+2026-10-06 18:42:19,487 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html
+2026-10-06 18:42:20,418 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html
+2026-10-06 18:42:21,427 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-art-forger_930/index.html
+2026-10-06 18:42:22,352 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html
+2026-10-06 18:42:23,579 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html
+2026-10-06 18:42:24,518 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html
+2026-10-06 18:42:27,183 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/soul-reader_926/index.html
+2026-10-06 18:42:28,489 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/security_925/index.html
+2026-10-06 18:42:29,622 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html
+2026-10-06 18:42:30,851 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/saga-volume-5-saga-collected-editions-5_923/index.html
+2026-10-06 18:42:32,093 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html
+2026-10-06 18:42:33,225 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921/index.html
+2026-10-06 18:42:33,739 | INFO    | scrapers.base_scraper | Page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 18:42:35,258 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 18:42:36,394 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html
+2026-10-06 18:42:37,332 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html
+2026-10-06 18:42:38,290 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/pop-gun-war-volume-1-gift_918/index.html
+2026-10-06 18:42:39,269 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html
+2026-10-06 18:42:40,278 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/patience_916/index.html
+2026-10-06 18:42:41,510 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html
+2026-10-06 18:42:42,635 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/orange-the-complete-collection-1-orange-the-complete-collection-1_914/index.html
+2026-10-06 18:42:43,654 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html
+2026-10-06 18:42:47,533 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/on-a-midnight-clear_912/index.html
+2026-10-06 18:42:48,770 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/obsidian-lux-1_911/index.html
+2026-10-06 18:42:49,691 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/my-paris-kitchen-recipes-and-stories_910/index.html
+2026-10-06 18:42:50,652 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/masks-and-shadows_909/index.html
+2026-10-06 18:42:52,056 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908/index.html
+2026-10-06 18:42:53,277 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/lumberjanes-vol-2-friendship-to-the-max-lumberjanes-5-8_907/index.html
+2026-10-06 18:42:54,302 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/lumberjanes-vol-1-beware-the-kitten-holy-lumberjanes-1-4_906/index.html
+2026-10-06 18:42:55,233 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/lumberjanes-vol-3-a-terrible-plan-lumberjanes-9-12_905/index.html
+2026-10-06 18:42:56,161 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/layered-baking-building-and-styling-spectacular-cakes_904/index.html
+2026-10-06 18:42:57,395 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html
+2026-10-06 18:42:58,588 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/join_902/index.html
+2026-10-06 18:42:59,628 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/in-the-country-we-love-my-family-divided_901/index.html
+2026-10-06 18:43:00,129 | INFO    | scrapers.base_scraper | Page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 18:43:01,273 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 18:43:03,000 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/immunity-how-elie-metchnikoff-changed-the-course-of-modern-medicine_900/index.html
+2026-10-06 18:43:03,909 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/i-hate-fairyland-vol-1-madly-ever-after-i-hate-fairyland-compilations-1-5_899/index.html
+2026-10-06 18:43:04,950 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/i-am-a-hero-omnibus-volume-1_898/index.html
+2026-10-06 18:43:05,876 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/how-to-be-miserable-40-strategies-you-already-use_897/index.html
+2026-10-06 18:43:06,790 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/her-backup-boyfriend-the-sorensen-family-1_896/index.html
+2026-10-06 18:43:07,829 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/giant-days-vol-2-giant-days-5-8_895/index.html
+2026-10-06 18:43:08,750 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/forever-and-forever-the-courtship-of-henry-longfellow-and-fanny-appleton_894/index.html
+2026-10-06 18:43:09,698 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/first-and-first-five-boroughs-3_893/index.html
+2026-10-06 18:43:10,696 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/fifty-shades-darker-fifty-shades-2_892/index.html
+2026-10-06 18:43:12,355 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/everydata-the-misinformation-hidden-in-the-little-data-you-consume-every-day_891/index.html
+2026-10-06 18:43:13,814 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/dont-be-a-jerk-and-other-practical-advice-from-dogen-japans-greatest-zen-master_890/index.html
+2026-10-06 18:43:15,244 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/danganronpa-volume-1_889/index.html
+2026-10-06 18:43:16,724 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/crown-of-midnight-throne-of-glass-2_888/index.html
+2026-10-06 18:43:18,157 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/codename-baboushka-volume-1-the-conclave-of-death_887/index.html
+2026-10-06 18:43:19,910 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/camp-midnight_886/index.html
+2026-10-06 18:43:21,550 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/call-the-nurse-true-stories-of-a-country-nurse-on-a-scottish-isle_885/index.html
+2026-10-06 18:43:23,077 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/burning_884/index.html
+2026-10-06 18:43:24,713 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/bossypants_883/index.html
+2026-10-06 18:43:25,644 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/bitch-planet-vol-1-extraordinary-machine-bitch-planet-collected-editions_882/index.html
+2026-10-06 18:43:26,663 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/avatar-the-last-airbender-smoke-and-shadow-part-3-smoke-and-shadow-3_881/index.html
+2026-10-06 18:43:27,171 | INFO    | scrapers.base_scraper | Page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 18:43:28,299 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 18:43:29,719 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/algorithms-to-live-by-the-computer-science-of-human-decisions_880/index.html
+2026-10-06 18:43:30,958 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/a-world-of-flavor-your-gluten-free-passport_879/index.html
+2026-10-06 18:43:31,992 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/a-piece-of-sky-a-grain-of-rice-a-memoir-in-four-meditations_878/index.html
+2026-10-06 18:43:32,923 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html
+2026-10-06 18:43:33,930 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/a-flight-of-arrows-the-pathfinders-2_876/index.html
+2026-10-06 18:43:35,160 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/a-fierce-and-subtle-poison_875/index.html
+2026-10-06 18:43:36,076 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/a-court-of-thorns-and-roses-a-court-of-thorns-and-roses-1_874/index.html
+2026-10-06 18:43:37,235 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/unqualified-how-god-uses-broken-people-to-do-big-things_873/index.html
+2026-10-06 18:43:38,233 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/you-are-what-you-love-the-spiritual-power-of-habit_872/index.html
+2026-10-06 18:43:39,269 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/william-shakespeares-star-wars-verily-a-new-hope-william-shakespeares-star-wars-4_871/index.html
+2026-10-06 18:43:40,456 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/tuesday-nights-in-1980_870/index.html
+2026-10-06 18:43:41,410 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/tracing-numbers-on-a-train_869/index.html
+2026-10-06 18:43:42,557 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/throne-of-glass-throne-of-glass-1_868/index.html
+2026-10-06 18:43:44,487 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/thomas-jefferson-and-the-tripoli-pirates-the-forgotten-war-that-changed-american-history_867/index.html
+2026-10-06 18:43:45,723 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/thirteen-reasons-why_866/index.html
+2026-10-06 18:43:47,139 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-white-cat-and-the-monk-a-retelling-of-the-poem-pangur-ban_865/index.html
+2026-10-06 18:43:48,158 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-wedding-dress_864/index.html
+2026-10-06 18:43:49,333 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-vacationers_863/index.html
+2026-10-06 18:43:51,022 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-third-wave-an-entrepreneurs-vision-of-the-future_862/index.html
+2026-10-06 18:43:52,263 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-stranger_861/index.html
+2026-10-06 18:43:52,768 | INFO    | scrapers.base_scraper | Page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 18:43:53,912 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 18:43:55,127 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-shadow-hero-the-shadow-hero_860/index.html
+2026-10-06 18:43:58,291 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-secret-the-secret-1_859/index.html
+2026-10-06 18:43:59,731 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-regional-office-is-under-attack_858/index.html
+2026-10-06 18:44:00,688 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-psychopath-test-a-journey-through-the-madness-industry_857/index.html
+2026-10-06 18:44:01,702 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-project_856/index.html
+2026-10-06 18:44:03,119 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-power-of-now-a-guide-to-spiritual-enlightenment_855/index.html
+2026-10-06 18:44:05,063 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-omnivores-dilemma-a-natural-history-of-four-meals_854/index.html
+2026-10-06 18:44:06,003 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-nerdy-nummies-cookbook-sweet-treats-for-the-geek-in-all-of-us_853/index.html
+2026-10-06 18:44:07,213 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html
+2026-10-06 18:44:08,141 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-mistake-off-campus-2_851/index.html
+2026-10-06 18:44:09,688 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-matchmakers-playbook-wingmen-inc-1_850/index.html
+2026-10-06 18:44:10,827 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-love-and-lemons-cookbook-an-apple-to-zucchini-celebration-of-impromptu-cooking_849/index.html
+2026-10-06 18:44:12,759 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-long-shadow-of-small-ghosts-murder-and-memory-in-an-american-city_848/index.html
+2026-10-06 18:44:13,964 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-kite-runner_847/index.html
+2026-10-06 18:44:15,413 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-house-by-the-lake_846/index.html
+2026-10-06 18:44:16,430 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-glittering-court-the-glittering-court-1_845/index.html
+2026-10-06 18:44:17,357 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-girl-on-the-train_844/index.html
+2026-10-06 18:44:19,575 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-genius-of-birds_843/index.html
+2026-10-06 18:44:21,763 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-emerald-mystery_842/index.html
+2026-10-06 18:44:24,616 | INFO    | scrapers.base_scraper | Fetched https://books.toscrape.com/catalogue/the-cookies-cups-cookbook-125-sweet-savory-recipes-reminding-you-to-always-eat-dessert-first_841/index.html
+2026-10-06 18:44:25,137 | INFO    | scrapers.base_scraper | Page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 18:44:40,969 | ERROR   | scrapers.base_scraper | Failed to fetch https://books.toscrape.com/catalogue/page-9.html: HTTPSConnectionPool(host='books.toscrape.com', port=443): Read timed out.
+2026-10-06 18:44:41,471 | ERROR   | scrapers.base_scraper | Stopping pagination at page 9
+2026-10-06 18:44:41,519 | INFO    | main | === Finished Books to Scrape: {'raw_collected': 160, 'cleaned': 160, 'rejected': 0, 'rejected_by_reason': {}, 'duplicates_removed': 0, 'final': 160, 'error': None} ===
+2026-10-06 18:44:41,522 | INFO    | main | === Starting source: Quotes to Scrape ===
+2026-10-06 18:44:41,522 | INFO    | scrapers.base_scraper | Page 1: https://quotes.toscrape.com/
+2026-10-06 18:44:45,630 | INFO    | scrapers.base_scraper | Fetched https://quotes.toscrape.com/
+2026-10-06 18:44:46,175 | INFO    | scrapers.base_scraper | Page 2: https://quotes.toscrape.com/page/2/
+2026-10-06 18:44:46,847 | INFO    | scrapers.base_scraper | Fetched https://quotes.toscrape.com/page/2/
+2026-10-06 18:44:47,369 | INFO    | scrapers.base_scraper | Page 3: https://quotes.toscrape.com/page/3/
+2026-10-06 18:44:47,808 | INFO    | scrapers.base_scraper | Fetched https://quotes.toscrape.com/page/3/
+2026-10-06 18:44:48,324 | INFO    | scrapers.base_scraper | Page 4: https://quotes.toscrape.com/page/4/
+2026-10-06 18:44:48,788 | INFO    | scrapers.base_scraper | Fetched https://quotes.toscrape.com/page/4/
+2026-10-06 18:44:49,303 | INFO    | scrapers.base_scraper | Page 5: https://quotes.toscrape.com/page/5/
+2026-10-06 18:44:49,814 | INFO    | scrapers.base_scraper | Fetched https://quotes.toscrape.com/page/5/
+2026-10-06 18:44:50,338 | INFO    | scrapers.base_scraper | Page 6: https://quotes.toscrape.com/page/6/
+2026-10-06 18:44:51,446 | INFO    | scrapers.base_scraper | Fetched https://quotes.toscrape.com/page/6/
+2026-10-06 18:44:51,965 | INFO    | scrapers.base_scraper | Page 7: https://quotes.toscrape.com/page/7/
+2026-10-06 18:44:52,413 | INFO    | scrapers.base_scraper | Fetched https://quotes.toscrape.com/page/7/
+2026-10-06 18:44:52,925 | INFO    | scrapers.base_scraper | Page 8: https://quotes.toscrape.com/page/8/
+2026-10-06 18:44:53,609 | INFO    | scrapers.base_scraper | Fetched https://quotes.toscrape.com/page/8/
+2026-10-06 18:44:54,130 | INFO    | scrapers.base_scraper | Page 9: https://quotes.toscrape.com/page/9/
+2026-10-06 18:44:55,554 | INFO    | scrapers.base_scraper | Fetched https://quotes.toscrape.com/page/9/
+2026-10-06 18:44:56,070 | INFO    | scrapers.base_scraper | Page 10: https://quotes.toscrape.com/page/10/
+2026-10-06 18:44:56,520 | INFO    | scrapers.base_scraper | Fetched https://quotes.toscrape.com/page/10/
+2026-10-06 18:44:57,042 | INFO    | main | === Finished Quotes to Scrape: {'raw_collected': 100, 'cleaned': 100, 'rejected': 0, 'rejected_by_reason': {}, 'duplicates_removed': 0, 'final': 100, 'error': None} ===
+2026-10-06 18:44:57,115 | INFO    | main | Done. 260 rows written. Reconciles: True
